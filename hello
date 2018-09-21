@@ -1,3 +1,0 @@
-#!/usr/local/bin/node
-
-console.log("hello, \"Sam\" or as some call you...\n\"Samuel\"!");
