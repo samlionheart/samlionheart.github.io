@@ -7,7 +7,7 @@
    <!--- basic page needs
    ================================================== -->
    <meta charset="utf-8">
-	<title>CV -Sam Lionheart</title>
+	<title>CV - Sam Lionheart</title>
 	<meta name="description" content="">
 	<meta name="author" content="">
 
@@ -49,9 +49,9 @@
 		   	<nav id="main-nav-wrap">
 					<ul class="main-navigation">
 						<li class="current"><a class="smoothscroll"  href="#intro" title="">Home</a></li>
-						<li><a class="smoothscroll"  href="#about" title="">A PROPOS</a></li>
+						<li><a class="smoothscroll"  href="#about" title="">About me</a></li>
 						<li><a class="smoothscroll"  href="#Work" title="">Work Experience</a></li>
-						<li><a class="smoothscroll"  href="#MORE" title="">MORE</a></li>
+						<li><a class="smoothscroll"  href="#MORE" title="">More</a></li>
 
 					</ul>
 				</nav>
@@ -79,7 +79,7 @@
 	   				<span>Back-end Developer</span>
 	   			</p>
 
-	   			<a class="button stroke smoothscroll" href="#about" title="">En savoir plus</a>
+	   			<a class="button stroke smoothscroll" href="#about" title="">More about me</a>
 
 	   		</div>
 
@@ -98,8 +98,7 @@
    	<div class="row section-intro">
    		<div class="col-twelve">
 
-   			<h5>A PROPOS</h5>
-
+   			<h5>About me</h5>
 
    			<div class="intro-info">
 
@@ -125,29 +124,29 @@ mobile. </p>
 
    		<div class="col-six tab-full">
 
-   			<h3>PROFILE</h3>
+   			<h3>Profile</h3>
 
 
    			<ul class="info-list">
    				<li>
-   					<strong>Nom et Prénom:</strong>
-   					<span>ABOU ALNASER samlionheart</span>
+   					<strong>Name:</strong>
+   					<span>Sam Lionheart</span>
    				</li>
    				<li>
-   					<strong>Date de naissance:</strong>
-   					<span>Né le : 15 / 09 / 1982</span>
+   					<strong>Date of Birth:</strong>
+   					<span>04 / 09 / 1997</span>
    				</li>
                 <li>
    					<strong>Email:</strong>
-   					<span>m.aboualnasser@gmail.com</span>
+   					<span>samuel.lionheart.work@gmail.com</span>
    				</li>
                 <li>
-   					<strong>Adress:</strong>
-   					<span>2 rue Barbes, 92 210 Montrouge</span>
+   					<strong>Address:</strong>
+   					<span>Greenwich, London</span>
    				</li>
    				<li>
    					<strong>Phone:</strong>
-   					<span>+ 33 6 27 76 01 44</span>
+   					<span>+ 44 7761915348</span>
    				</li>
 
 
@@ -157,8 +156,7 @@ mobile. </p>
 
    		<div class="col-six tab-full">
 
-   			<h3>COMPETENCES</h3>
-
+   			<h3>Competencies</h3>
 
 				<ul class="skill-bars">
 				   <li>
@@ -167,15 +165,15 @@ mobile. </p>
 				   </li>
 				   <li>
 				   	<div class="progress percent85"><span>85%</span></div>
-				   	<strong>CSS</strong>
+				   	<strong>Javascript</strong>
 				   </li>
 				   <li>
 				   	<div class="progress percent70"><span>70%</span></div>
-				   	<strong>JQuery</strong>
+				   	<strong>Java</strong>
 				   </li>
 				   <li>
 				   	<div class="progress percent85"><span>85%</span></div>
-				   	<strong>Bootstrap</strong>
+				   	<strong>CSS</strong>
 				   </li>
 				   <li>
 				   	<div class="progress percent75"><span>75%</span></div>
@@ -183,7 +181,7 @@ mobile. </p>
 				   </li>
 				   <li>
                     <div class="progress percent75"><span>75%</span></div>
-				   	<strong>Java script</strong>
+				   	<strong>Ruby on Rails</strong>
 				   </li>
 
 				</ul> <!-- /skill-bars -->
@@ -195,7 +193,7 @@ mobile. </p>
    	<div class="row button-section">
    		<div class="col-twelve">
    			<a href="#contact" title="Hire Me" class="button stroke smoothscroll">Hire me</a>
-   			<a href="https://github.com/aboualnaser/aboualnaser.github.io/raw/master/images/CV%20_%20samlionheart%20Abou%20Alnaser_Dev%20Web%20PHP%20.pdf" target="_blank" title="Download CV" class="button button-primary">Download my CV</a>
+   			<a href="https://github.com/samlionheart/samlionheart.github.io/raw/master/images/CV%20_%20Sam_Lionheart%20.pdf" target="_blank" title="Download CV" class="button button-primary">Download my CV</a>
    		</div>
    	</div>
 
@@ -210,7 +208,7 @@ mobile. </p>
 
    		<div class="col-twelve resume-header">
 
-   			<h2>Expériences Professionelles</h2>
+   			<h2>Work experience</h2>
 
    		</div> <!-- /resume-header -->
 
@@ -232,8 +230,7 @@ transmission du réseau Bouygues Télécom en Ile-deFrance.
 	   				</div>
 
 	   				<div class="timeline-content">
-	   					<h4>Al Furat Petroleum Company | Syrie - Ingénieur Télécom –
-2010 / 2013</h4>
+	   					<h4>In-School Maths Tutor</h4>
 	   					<p>Déploiement et mise en service des équipements radio et
 transmission (Sagem)
 § Configuration de routeurs Cisco .</p>
@@ -248,9 +245,8 @@ transmission (Sagem)
 	   				</div>
 
 	   				<div class="timeline-header">
-	   					<h3>Intracom | Syrie – Gestionnaire d e s i t e d e
-télécommunications 2008 / 2010</h3>
-	   					<p>Déploiement du projet de réseau point-à-multipont</p>
+	   					<h3>In-School Maths Tutor</h3>
+	   					<p>Working through Yipiyap to tutor high school students in Maths from ages 11 to 16 years old</p>
 	   				</div>
 
 
